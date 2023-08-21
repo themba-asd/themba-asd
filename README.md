@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Themba
+# Hey there! 👋
 
 I'm a passionate software developer and UI/UX designer with expertise in JavaScript, HTML, and CSS. I'm all about creating user-friendly and visually appealing web applications. 
 Here's a little bit about me:
