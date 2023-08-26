@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a passionate developer and UI/UX designer with expertise in JavaScript, HTML, and CSS. I'm all about creating user-friendly and visually appealing web applications. 
+I'm a passionate developer and UI/UX designer with proficiency in JavaScript, HTML, and CSS. I'm all about creating user-friendly and visually appealing web applications. 
 Here's a little bit about me:
 
 - 💻 I'm proficient in:
