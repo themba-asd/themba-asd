@@ -6,7 +6,7 @@ Here's a little bit about me:
 
 - 💻 Proficient Skills:
   - Backend: PostgreSQL, Python, Node.js
-  - Frontend: JavaScript, Vue.js, HTML/CSS
+  - Frontend: JavaScript, Vue.js, CSS
   - Desktop Apps: Electron.js
   
 - 🎨 I'm also handy with UI/UX design:
