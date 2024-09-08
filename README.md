@@ -16,8 +16,6 @@ I’m on a journey to become a skilled software and web developer. Passionate ab
 📫 If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me:
   - I'm currently busy with this 👉 [Pedibase](https://github.com/themba-asd/pedibase_frontend),
 
-- 📧 Email: [hp.asd6@gmail.com](mailto:hp.asd6@gmail.com)
-
 ## 💻 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
