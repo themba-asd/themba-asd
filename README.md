@@ -23,7 +23,6 @@ I’m on a journey to become a skilled software and web developer. Passionate ab
 ![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-0F4C81?style=flat-square&logo=drizzle&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
