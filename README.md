@@ -8,9 +8,6 @@ I’m on a journey to become a skilled software and web developer. Passionate ab
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themba-asd&layout=compact&hide_title=true&hide_border=true)
 
-## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themba-asd&hide_border=true)
-
 ## Let's Connect
 
 📫 If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me:
