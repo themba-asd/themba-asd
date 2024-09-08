@@ -2,7 +2,18 @@
 
 I'm a passionate full stack developer, all about creating user-friendly and visually appealing web apps. 
 
-💻🚀 I'm constantly working on exciting projects to improve my skills and contribute to the tech community.
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themba-asd&show_icons=true&hide_title=true&hide_border=true&count_private=true)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themba-asd&layout=compact&hide_title=true&hide_border=true)
+
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themba-asd&hide_border=true)
+
+
+
+
 
 ## Let's Connect
 
