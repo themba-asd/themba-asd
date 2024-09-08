@@ -11,10 +11,6 @@ I'm a passionate full stack developer, all about creating user-friendly and visu
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themba-asd&hide_border=true)
 
-
-
-
-
 ## Let's Connect
 
 📫 If you're interested in collaborating on a project or just want to chat about tech, feel free to reach out to me:
