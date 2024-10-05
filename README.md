@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I’m on a journey to become a skilled software and web developer. Passionate about building innovative solutions and creating seamless user experiences!
+I’m on a journey to become a skilled software developer. Passionate about building innovative solutions and creating seamless user experiences!
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themba-asd&show_icons=true&hide_title=true&hide_border=true&count_private=true)
